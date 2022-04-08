@@ -38,8 +38,6 @@ const HourlyChart = ({
     "23:00",
   ];
 
-  console.log(arrayOfAggregatedData, indexOfElementClicked);
-
   const hourlyScheduledData = [];
 
   const hoursAtParticularInstance = arrayOfAggregatedData[
